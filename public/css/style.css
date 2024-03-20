@@ -1,0 +1,46 @@
+#filter-row {
+    margin-top: 30px;
+    padding: unset;
+
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+.vertical-center-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.form-select {
+    width: 100px;
+}
+
+#cards {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.card-deck {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.card {
+    padding: 15px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+.card-img-top {
+    height: 150px;
+    width: 150px;
+}

@@ -1,0 +1,22 @@
+.card-deck {
+    width: 100%;
+    margin-top: 30px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.card-deck form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.card-deck label {
+    text-align: left;
+}
+
+#cadastrar {
+    width: 100px;
+    margin-top: 20px;
+}
